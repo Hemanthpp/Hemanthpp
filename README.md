@@ -11,13 +11,18 @@ https://resume-portfolio.vercel.app
 
 ## 🛠 Tech Stack
 
-* React.js
+* HTML
+* CSS
 * JavaScript
+* React.js
 * Tailwind CSS
 * Vite
 * AWS
 * IBM Cloud
 * Git & GitHub
+* AI/ML Basics
+* Computer Vision
+
 
 ## 📫 Contact
 
