@@ -7,7 +7,7 @@
 
 ## 🔗 Portfolio
 
-https://resume-portfolio.vercel.app
+https://resume-portfolio.vercel.app/
 
 ## 🛠 Tech Stack
 
