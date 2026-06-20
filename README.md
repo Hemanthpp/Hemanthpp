@@ -7,7 +7,7 @@
 
 ## 🔗 Portfolio
 
-https://resume-portfolio.vercel.app/
+https://resume-portfolio-tau-lac.vercel.app/
 
 ## 🛠 Tech Stack
 
@@ -27,4 +27,4 @@ https://resume-portfolio.vercel.app/
 ## 📫 Contact
 
 * GitHub: https://github.com/Hemanthpp
-* Portfolio: https://resume-portfolio.vercel.app
+* Portfolio: https://resume-portfolio-tau-lac.vercel.app/
